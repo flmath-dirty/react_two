@@ -9,15 +9,14 @@ made on windows
 7. add .travis.yml file
 8.npm run start
 9. npm run build
-10. modifypackage.json file
-11. generate token in github
-12. set token in travis
-13. run build
-14. check https://flmath-dirty.github.io/react_two/
-
-
-
-
+10. modify package.json file
+11. git add .
+12. git commit -m'comment'
+13. git push
+14. generate token in github
+15. set token in travis
+16. run build
+17. check https://flmath-dirty.github.io/react_two/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
