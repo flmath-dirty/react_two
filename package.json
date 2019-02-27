@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "https://flmath-dirty.github.io/react_two/",
   "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
     "react-scripts": "2.1.5"
   },
   "scripts": {
