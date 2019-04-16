@@ -7,7 +7,7 @@ made on windows
 5. create-react-app reactx
 6. cd reactx
 7. add .travis.yml file
-8.npm run start
+8. npm run start
 9. npm run build
 10. modify package.json file
 11. git add .
